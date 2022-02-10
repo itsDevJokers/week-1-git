@@ -1,0 +1,13 @@
+1.  Intro Git
+
+    GIT adalah salah satu version control system yang diciptakan oleh Linus Torvalds. GIT mencatat setiap perubahan file di code atau sourcode kita. Manfaat Git adalah:
+    - Bisa menyimpan seluruh versi source code
+    - Berkolaborasi membangun sistem jadi mudah
+    - Bisa berkontribusi di proyek open source
+    - Memudahkan dalam tracking perubahan
+    - Memahami cara deploy modern
+    - dan banyak lagi manfaat dari Git.
+
+    Git saat ini sudah bisa disimpan pada penyimpanan cloud dengan menggunakan Github, Gitlab, dan BitBucket
+
+
