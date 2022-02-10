@@ -35,3 +35,9 @@
     - Git checkout (nama_branch): untuk berpindah branch
     - Git branch -d (nama_branch): untuk menghapus branch
     - Git merge (nama_branch): untuk menggabungkan commit dari 2 atau lebih branch. Perintah ini bersifat relatif terhadap branch yang aktif. Untuk melakukan merge harus dipastikan file sudah dicommit. Ketika melakukan merge sering terjadi kondisi conflict dimana file yang sama terjadi perubahan pada beberapa branch dan tidak dapat dilakukan commit sebelum conflict diselesaikan dulu.
+
+4.  GUI untuk Git
+
+    Untuk mempermudah dalam mengoperasikan Git dan juga mempercepat pengelolaan source code, terdapat software yang berbasis GUI (Graphical User Interface) yang bernama SourceTree. Selain itu, kita dapat menyelesaikan conflict dengan lebih gampang. 
+
+    Dalam menyelesaikan conflict menggunakan SourceTree, hal yang harus dilakukan adalah menginstall diff merge serta melakukan konfigurasi external diff tool pada SourceTree.
